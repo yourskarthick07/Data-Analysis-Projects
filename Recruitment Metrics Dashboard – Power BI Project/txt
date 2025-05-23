@@ -1,0 +1,77 @@
+# 📊 Recruitment Metrics Dashboard – Power BI Project
+
+An interactive Power BI dashboard that visualizes key recruitment and HR metrics, helping organizations track hiring performance, analyze workforce demographics, and make informed HR decisions.
+
+---
+
+## 📌 Project Overview
+
+This dashboard provides a visual summary of recruitment KPIs such as employee headcount, gender distribution, city/department-wise hiring trends, and compensation analysis. It empowers HR professionals to identify trends and optimize strategies using data-driven insights.
+
+---
+
+## 🔍 Key Features
+
+- ✅ **Total Employee Count** – Displays total workforce size.
+- ✅ **Gender Breakdown (DAX)** – Splits headcount using DAX into:
+  - 👨‍💼 Male Employees: 485  
+  - 👩‍💼 Female Employees: 515  
+- ✅ **Hiring Trends by Year** – Visualized year-on-year gender-based hiring patterns.
+- ✅ **City-Wise Distribution** – Shows employee spread across locations like Austin, Beijing, and Chicago.
+- ✅ **Department-Wise Metrics** – Insight into hiring across IT, Sales, Engineering, etc.
+- ✅ **Business Unit Gender Split** – Compares male/female count in different business units.
+- ✅ **Salary & Bonus Analysis** – Tracks department-wise average salary and bonus against benchmarks.
+- ✅ **Dynamic Filters** – Slicers for city, department, and business unit for easy analysis.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Power BI Desktop**
+- **DAX (Data Analysis Expressions)**
+- Data Visualization Elements: Bar charts, KPIs, Slicers, Pie Charts
+
+---
+
+## 📈 Purpose
+
+The goal of this project is to:
+- Help HR departments monitor recruitment efforts
+- Track gender diversity across the organization
+- Understand compensation trends by role and department
+- Enable data-driven decision-making in hiring and workforce planning
+
+---
+
+## 📷 Screenshots
+
+| Dashboard Overview | Gender Split | Department Trends |
+|--------------------|--------------|-------------------|
+| ![Dashboard](images/dashboard-overview.png) | ![Gender](images/gender-split.png) | ![Departments](images/department-trends.png) |
+
+> _Note: Replace these placeholders with actual screenshot files stored in an `/images` folder in your repo._
+
+---
+
+## 📂 Dataset
+
+This dashboard was created using a sample HR dataset with fields such as:
+- Employee ID
+- Gender
+- Department
+- City
+- Annual Salary
+- Bonus
+- Year of Recruitment
+- Business Unit
+
+> _You can modify or expand this dataset to fit your own use case._
+
+---
+
+## 🧠 Learnings
+
+- Hands-on practice with DAX for calculations
+- KPI creation and benchmarking
+- Designing user-friendly, dynamic dashboards in Power BI
+- Real-time filtering using slicers
