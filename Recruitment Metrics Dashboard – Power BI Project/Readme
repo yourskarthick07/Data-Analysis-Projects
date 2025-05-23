@@ -42,17 +42,6 @@ The goal of this project is to:
 - Enable data-driven decision-making in hiring and workforce planning
 
 ---
-
-## 📷 Screenshots
-
-| Dashboard Overview | Gender Split | Department Trends |
-|--------------------|--------------|-------------------|
-| ![Dashboard](images/dashboard-overview.png) | ![Gender](images/gender-split.png) | ![Departments](images/department-trends.png) |
-
-> _Note: Replace these placeholders with actual screenshot files stored in an `/images` folder in your repo._
-
----
-
 ## 📂 Dataset
 
 This dashboard was created using a sample HR dataset with fields such as:
@@ -64,9 +53,6 @@ This dashboard was created using a sample HR dataset with fields such as:
 - Bonus
 - Year of Recruitment
 - Business Unit
-
-> _You can modify or expand this dataset to fit your own use case._
-
 ---
 
 ## 🧠 Learnings
