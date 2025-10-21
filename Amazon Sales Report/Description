@@ -1,8 +1,0 @@
-This Power BI project analyzes Amazon sales performance using key metrics such as:
-- Total Revenue, Profit, and Units Sold
-- Region-wise and Category-wise performance
-- Monthly sales trend visualization
-- Interactive filters for product, region, and time period
-
-Data Source: Cleaned Excel data integrated into Power BI
-Purpose: To demonstrate practical data analysis and visualization skills for e-commerce datasets.
